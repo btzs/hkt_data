@@ -48,7 +48,7 @@ The JSON file looks like this:
     }
 ```
 
-#### Consumer
+#### Residential
 ```
 "RES_BASIC_BW": "8"     --> 8 Mbit/s DSL available
 "RES_FTTB_BW": "100"    --> 100 Mbit/s Fibre-To-The-Building (?!) available
